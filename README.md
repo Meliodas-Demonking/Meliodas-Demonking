@@ -1,6 +1,5 @@
-# Geeten Tembhurne — Portfolio
-
 ![Portfolio](portfolio.png)
+You can view my [Portfolio](https://meliodas-demonking.github.io/Portfolio/), featuring projects, skills, and client reviews.
 <!--
 **Meliodas-Demonking/Meliodas-Demonking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
