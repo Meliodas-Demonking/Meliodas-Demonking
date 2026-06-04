@@ -1,5 +1,6 @@
-## Hi there 👋
+# Geeten Tembhurne — Portfolio
 
+![Portfolio](./portfolio-preview.png)
 <!--
 **Meliodas-Demonking/Meliodas-Demonking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
