@@ -1,5 +1,7 @@
 ![Portfolio](portfolio.png)
 You can view my [Portfolio](https://meliodas-demonking.github.io/Portfolio/), featuring projects, skills, and client reviews.
+[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen)](https://meliodas-demonking.github.io/Portfolio/)
+
 <!--
 **Meliodas-Demonking/Meliodas-Demonking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
